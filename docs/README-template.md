@@ -1,6 +1,8 @@
 # Frontend Mentor - Browser extensions manager UI solution
 
-This is a solution to the [Browser extensions manager UI challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a sleek and responsive user interface for managing browser extensions. This project simulates how a user can view and manage various browser extensions in a visually appealing dashboard layout.
+
+It is a solution to the [Browser extensions manager UI challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 

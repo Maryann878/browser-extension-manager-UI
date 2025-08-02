@@ -46,7 +46,7 @@ Users can:
 
 ### Screenshot
 
-![screenshot of the design](./Screenshot-light.png)(./Screenshot-light.png)
+![screenshot of the design](/Screenshot-light.png)(/Screenshot-light.png)
 
 ---
 

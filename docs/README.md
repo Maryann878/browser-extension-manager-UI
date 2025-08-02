@@ -46,7 +46,11 @@ Users can:
 
 ### Screenshot
 
-![screenshot of the design](assets/images/screenshot-light.png)(assets/images/screenshot-light.png)
+#### Light Theme
+![Light theme](docs/assets/images/screenshot-light.png)
+
+#### Dark Theme
+![Dark theme](docs/assets/images/screenshot-dark.png)
 
 ---
 

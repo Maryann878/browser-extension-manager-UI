@@ -89,18 +89,20 @@ body {
 .topbar-left {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
 }
+
 .topbar .logo {
-  width: 36px;
+  width: 100px;
   height: 36px;
 }
+
 .topbar-title {
   font-family: 'Noto Sans', Arial, sans-serif;
   font-size: 1.25rem;
   font-weight: 700;
   color: #fff;
   letter-spacing: 0.5px;
+  margin-left: -70px;
 }
 
 /* Theme toggle button in topbar */
@@ -291,7 +293,7 @@ body.dark-theme header h1 {
    ========================= */
 .switch {
   position: absolute;
-  top: 18px;
+  bottom: 18px;
   right: 18px;
   display: flex;
   align-items: center;
@@ -355,6 +357,12 @@ body.dark-theme input:checked + .slider {
     width: 100%;
     min-width: 0;
   }
+ 
+
+.main-logo{
+width: 36px;
+height: 36px;
+}
 }
 
 /* =========================
@@ -367,21 +375,4 @@ input:focus,
   outline-offset: 2px;
 }
 
-
-/* Responsive adjustments */
-@media (max-width: 700px) {
-  .container {
-    padding: 1rem;
-  }
-  header {
-    padding: 1.2rem 1rem 1rem 1rem;
-  }
-  #extensions-container {
-    grid-template-columns: 1fr;
-    gap: 1.2rem;
-  }
-  .tool-card {
-    width: 100%;
-    min-width: 0;
-  }
-}
+ 

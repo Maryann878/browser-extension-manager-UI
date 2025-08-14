@@ -337,6 +337,12 @@ body.dark-theme .slider {
 }
 body.dark-theme input:checked + .slider {
   background: var(--red-400);
+
+
+}
+
+.attribution{
+margin-top: 20px;
 }
 
 /* =========================
